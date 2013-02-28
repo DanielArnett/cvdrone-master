@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BallTracking", "BallTracking\BallTracking.vcxproj", "{11D93932-E4BA-47EF-99CD-A669E8B7F687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11D93932-E4BA-47EF-99CD-A669E8B7F687}.Debug|Win32.ActiveCfg = Debug|Win32
+		{11D93932-E4BA-47EF-99CD-A669E8B7F687}.Debug|Win32.Build.0 = Debug|Win32
+		{11D93932-E4BA-47EF-99CD-A669E8B7F687}.Release|Win32.ActiveCfg = Release|Win32
+		{11D93932-E4BA-47EF-99CD-A669E8B7F687}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
